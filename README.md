@@ -3,12 +3,34 @@ Even Number Job Interview Question
 
 You have just gone to a laptop shop to buy your dream laptop. Getting there, you saw two different specs of the laptop with two different prices.
 
+Even price combination:
+
+
 With 1TB SSD = 300,000
+
+
 With 1TB HDD = 250,000
+
+
+
+
+
+Odd price combination:
+
+
+With 1TB SSD = 300,000
+
+
+With 1TB HDD = 250,005
 
 Problem: Write a function that returns the lesser of the 2 given prices if both prices are even numbers. Return the higher price if one of both prices are odd numbers.
 
 Remember: This job is an open position job. That means you can determine the position you want to be hired into:  Junior, Mid or Senior Developer. Quality of your code will determine.
+
+
+
+
+
 
 
 MY SOLUTIONS

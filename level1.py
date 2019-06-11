@@ -8,4 +8,12 @@ def two_laptops(ssd, hdd):
         if ssd > hdd:
             return ssd
         else:
-            return hdd                
+            return hdd 
+    elif (ssd + hdd) % 2 == 1:
+        if ssd > hdd:
+            return ssd
+        else:
+            return hdd  
+
+two_laptops(300000, 250000)
+two_laptops(300000, 250005)                                
