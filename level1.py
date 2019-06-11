@@ -19,6 +19,6 @@ def two_laptops(ssd, hdd):
             return ssd
         else:
             return hdd  
-# Calling the function with even and/or odd combination
+# Calling the function with even or odd combination. Run with one at a time.
 two_laptops(300000, 250000)
 two_laptops(300000, 250005)                                
