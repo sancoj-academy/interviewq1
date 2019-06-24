@@ -5,7 +5,7 @@ def two_laptops(ssd, hdd):
         if ssd > hdd:
             return hdd
         else:
-            return sdd
+            return ssd
     # Confirming if prices are odd numbers        
     elif ssd % 2 == 1 or hdd % 2 == 1:
         # Checking the higher price
